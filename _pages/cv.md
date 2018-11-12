@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Systems and Biomedical Engineering, Cairo University, 2009. GPA: 3.9/4.0 (Rank: 8th).
+* M.S. in Communication and Information Technology, Nile University, 2013. GPA: 3.93/4.0.
+* Ph.D in Distributed Computing, Instituto Superior Tecnio (Portugal) / Roya Institute of Technology (Sweden), 2018 (expected)
 
 Work experience
 ======
